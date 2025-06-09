@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/cloudinary.config.ts","./src/controllers/uploadpdf.ts","./src/utils/pdfuploader.ts"],"version":"5.8.3"}
