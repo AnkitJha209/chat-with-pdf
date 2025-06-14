@@ -1,1 +1,1 @@
-{"root":["./src/index.ts","./src/controllers/chat-with-pdf.ts","./src/controllers/uploadpdf.ts"],"version":"5.8.3"}
+{"root":["./src/index.ts","./src/controllers/chat-with-pdf.ts","./src/controllers/uploadpdf.ts","./src/worker/worker.ts"],"version":"5.7.3"}
